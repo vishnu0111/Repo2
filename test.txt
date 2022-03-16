@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 9802-CCE4
-
- Directory of C:\Users\Vishn\Desktop\MyProject
-
-16/03/2022  08:10    <DIR>          .
-16/03/2022  08:07    <DIR>          ..
-16/03/2022  08:10                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  331,395,223,552 bytes free
+change 1
